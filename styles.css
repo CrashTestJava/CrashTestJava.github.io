@@ -1,14 +1,15 @@
 body {
-    background-color: #000000;
+    background-color: rgb(41, 41, 41);
     padding: 0;
 }
-div.box {
+div.topbox {
     width: 2000px;
-    height: 200px;
-    background-color: rgb(0, 0, 0);
-    border-bottom: 1px solid #FFFFFF;
-
-   
-
-
-   }
+    height: 70px;
+    background-color: rgb(78, 78, 78); 
+}
+div.bottombox {
+    width: 2000px;
+    height: 70px;
+    background-color: rgb(211, 16, 16);
+    margin-top: 800px;
+}
