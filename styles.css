@@ -1,6 +1,7 @@
 body {
     background-color: rgb(41, 41, 41);
     padding: 0;
+    margin: 0;
 }
 div.topbox {
     width: 2000px;
