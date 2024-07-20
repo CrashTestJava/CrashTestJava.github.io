@@ -1,11 +1,11 @@
 @font-face {
     font-family: baskic8;
-    src: url(Baskic8.otf);
+    src: url(res/Baskic8.otf);
 }
 
 @font-face {
     font-family: essentle4;
-    src: url(Essentle4.otf);
+    src: url(res/Essentle4.otf);
 }
 
 * {
@@ -46,6 +46,7 @@ body{
 .footerLink {
     font-size: 20px;
     font-family: essentle4;
+    user-select: none;
 }
 
 
